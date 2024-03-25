@@ -2,14 +2,17 @@
 # Example: Change dpi
 # ro.sf.lcd_density=171
 
-ro.product.model=X10A
+ro.product.model=X08A
 ro.product.brand=XiaoAiTongXue
 ro.product.manufacturer=XiaoMi
-ro.product.name=mico_x10a
-ro.product.device=mico_x10a
-ro.build.product=mico_x10a
+ro.product.name=mi_x08a
+ro.product.device=mi_x08a
+ro.build.product=mi_x08a
 
 mi.did=123456789|zPco0OgZvkHACK0l
-ro.mi.sw_ver=2.1.9
-ro.mi.sw_channel=stable
 ro.mi.debughelper=1
+ro.mi.microphone.number=2
+ro.mi.sw_ver=2.17.31
+ro.mi.os.version=1.0.31
+ro.mi.sw_channel=stable
+service.adb.tcp.port=5555

@@ -1,7 +1,12 @@
-ro.product.board=mico_x10a
+ro.product.board=mi_x08a
 ro.board.platform=mt8167
 ro.product.vendor.manufacturer=XiaoMi
-ro.product.vendor.model=X10A
+ro.product.vendor.model=X08A
 ro.product.vendor.brand=XiaoAiTongXue
-ro.product.vendor.name=mico_x10a
-ro.product.vendor.device=mico_x10a
+ro.product.vendor.name=mi_x08a
+ro.product.vendor.device=mi_x08a
+
+ro.mi.sw_ver=2.17.31
+ro.mi.os.version=1.0.31
+ro.mi.sw_channel=stable
+service.adb.tcp.port=5555
