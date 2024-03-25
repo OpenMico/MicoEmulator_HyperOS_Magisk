@@ -14,7 +14,7 @@
 - 语音引擎 (MicoLauncher)
 
 # 下载
-- [OpenMico/MicoEmulator_Magisk/releases](https://github.com/OpenMico/MicoEmulator_Magisk/releases)
+- [OpenMico/MicoEmulator_HyperOS_Magisk/releases](https://github.com/OpenMico/MicoEmulator_HyperOS_Magisk/releases)
 
 # 使用方式
 - 下载
